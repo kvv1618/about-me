@@ -10,9 +10,9 @@ Hello, I'm Varun KV, an Algorithms enthusiast. I do competetive coding, CodeChef
 
 ## 🛠️ **Tools & Languages:**
 
--HTML | MySQL | Git | Linux | Flutter
--C++ | Python | Java | Matlab | Latex
--Arduino
+<br>-HTML | MySQL | Git | Linux | Flutter</br>
+<br>-C++ | Python | Java | Matlab | Latex</br>
+<br>-Arduino</br>
 
 ## 📫 **Link Tree:**
 <p align="center">
