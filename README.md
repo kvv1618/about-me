@@ -5,11 +5,11 @@
 </br>
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
-
-<br>Hello, I'm Varun KV, an Algorithms enthusiast. I do competetive coding,</br> 
-<br>CodeChef (Highest rating: 1842)</br>
-<br>Codefores (Highest rating: 1299)</br>
-<br>I am looking forward to learn new things such that the logical thought process is embedded in my mind. I agree with astrophysicist Carl Sagan that, "Every kid starts out as a natural-born scientist, and then we beat it out of them. A few trickle through the system with their wonder and enthusiasm for science intact."</br>
+Hello, I'm Varun KV, an Algorithms enthusiast. I do competetive coding,
+<br>CodeChef (Highest rating: 1842)
+<br>Codefores (Highest rating: 1299)
+<br>I am looking forward to learn new things such that the logical thought process is embedded in my mind. I agree with astrophysicist Carl Sagan that, 
+<br>"Every kid starts out as a natural-born scientist, and then we beat it out of them. A few trickle through the system with their wonder and enthusiasm for science intact."
 
 ## 🛠️ **Tools & Languages:**
 
