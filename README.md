@@ -13,9 +13,18 @@ Hello, I'm Varun KV, an Algorithms enthusiast. I do competetive coding,
 
 ## 🛠️ **Tools & Languages:**
 
-<br>-HTML | MySQL | Git | Linux | Flutter</br>
-<br>-C++ | Python | Java | Matlab | Latex</br>
-<br>-Arduino</br>
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-eeeeee?style=for-the-badge&logo=mysql)
+![Flutter](https://img.shields.io/badge/Flutter%20-%23E34F26.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab%20-%23E34F26.svg?&style=for-the-badge&logo=matlab&logoColor=blue)
+![Latex](https://img.shields.io/badge/Latex%20-%23E34F26.svg?&style=for-the-badge&logo=latex&logoColor=white)
+
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/-Java-ffb400?style=for-the-badge&logo=java&logoColor=ffff3f)
+
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 
 ## 📫 **Link Tree:**
 <p align="center">
