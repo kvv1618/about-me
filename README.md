@@ -22,6 +22,8 @@ Hello, I'm Varun KV, an Algorithms enthusiast. I do competetive coding,
 ![FastAPI](https://img.shields.io/badge/fastapi%20-%23E34F26.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/django%20-%23E34F26.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash%20-%23E34F26.svg?&style=for-the-badge&logo=latex&logoColor=white)
+![ArangoDB](https://img.shields.io/badge/ArangoDB%20-%23E34F26.svg?&style=for-the-badge&logo=ArangoDB&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23E34F26.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python)
@@ -30,6 +32,7 @@ Hello, I'm Varun KV, an Algorithms enthusiast. I do competetive coding,
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
+![Arduino](https://img.shields.io/badge/Arduino%20-%23E34F26.svg?&style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## 📫 **Link Tree:**
 <p align="center">
