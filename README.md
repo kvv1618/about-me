@@ -18,15 +18,15 @@ Hello, I'm Varun KV, an Algorithms enthusiast. I do competetive coding,
 ![Flutter](https://img.shields.io/badge/Flutter%20-%23E34F26.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab%20-%23E34F26.svg?&style=for-the-badge&logo=matlab&logoColor=blue)
 ![Latex](https://img.shields.io/badge/Latex%20-%23E34F26.svg?&style=for-the-badge&logo=latex&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask%20-%23E34F26.svg?&style=for-the-badge&logo=latex&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI%20-%23E34F26.svg?&style=for-the-badge&logo=latex&logoColor=white)
-![Django](https://img.shields.io/badge/Django%20-%23E34F26.svg?&style=for-the-badge&logo=latex&logoColor=white)
+![Flask](https://img.shields.io/badge/flask%20-%23E34F26.svg?&style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi%20-%23E34F26.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/django%20-%23E34F26.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash%20-%23E34F26.svg?&style=for-the-badge&logo=latex&logoColor=white)
 
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-ffb400?style=for-the-badge&logo=java&logoColor=ffff3f)
-![Verilog]
+![Verilog](https://img.shields.io/badge/verilog%20-%23E34F26.svg?&style=for-the-badge&logo=verilog&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
