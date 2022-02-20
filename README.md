@@ -18,10 +18,10 @@ Hello, I'm Varun KV, an Algorithms enthusiast. I do competetive coding,
 ![Flutter](https://img.shields.io/badge/Flutter%20-%23E34F26.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab%20-%23E34F26.svg?&style=for-the-badge&logo=matlab&logoColor=blue)
 ![Latex](https://img.shields.io/badge/Latex%20-%23E34F26.svg?&style=for-the-badge&logo=latex&logoColor=white)
-![Flask]
-![FastAPI]
-![Django]
-![Bash]
+![Flask](https://img.shields.io/badge/Flask%20-%23E34F26.svg?&style=for-the-badge&logo=latex&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI%20-%23E34F26.svg?&style=for-the-badge&logo=latex&logoColor=white)
+![Django](https://img.shields.io/badge/Django%20-%23E34F26.svg?&style=for-the-badge&logo=latex&logoColor=white)
+![Bash](https://img.shields.io/badge/bash%20-%23E34F26.svg?&style=for-the-badge&logo=latex&logoColor=white)
 
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python)
