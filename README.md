@@ -24,7 +24,7 @@ Hello, I'm Varun KV, an Algorithms enthusiast. I do competetive coding,
 ![ArangoDB](https://img.shields.io/badge/ArangoDB%20-%23E34F26.svg?&style=for-the-badge&logo=ArangoDB&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23E34F26.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes%20-%23E34F26.svg?&style=for-the-badge&logoColor=whitehttps://img.shields.io/badge/Kubernetes%20-%23E34F26.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white)
-![Docker]([https://img.shields.io/badge/PostgreSQL%20-%23E34F26.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white](https://img.shields.io/badge/Docker%20-%23E34F26.svg?&style=for-the-badge&logo=Docker&logoColor=white))
+![Docker](https://img.shields.io/badge/Docker%20-%23E34F26.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python)
