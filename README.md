@@ -8,7 +8,7 @@
 Hello, I'm Varun KV, an Algorithms enthusiast. I do competetive coding,
 <br>Codefores (Highest rating: 1299)
 <br>Data Science and ML enthusiast
-<br>Well trained in embedded systems
+<br>Well acquainted with python based back-end frameworks. 
 <br>I am looking forward to learn new things such that the logical thought process is embedded in my mind. I agree with astrophysicist Carl Sagan that, 
 <br>"Every kid starts out as a natural-born scientist, and then we beat it out of them. A few trickle through the system with their wonder and enthusiasm for science intact."
 
