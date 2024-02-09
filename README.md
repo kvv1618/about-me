@@ -14,7 +14,6 @@ Hello, I'm Varun KV, an Algorithms enthusiast. I do competetive coding,
 
 ## 🛠️ **Tools & Languages:**
 
-![MySQL](https://img.shields.io/badge/-MySQL-eeeeee?style=for-the-badge&logo=mysql)
 ![Matlab](https://img.shields.io/badge/Matlab%20-%23E34F26.svg?&style=for-the-badge&logo=matlab&logoColor=blue)
 ![Latex](https://img.shields.io/badge/Latex%20-%23E34F26.svg?&style=for-the-badge&logo=latex&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask%20-%23E34F26.svg?&style=for-the-badge&logo=flask&logoColor=white)
@@ -22,13 +21,18 @@ Hello, I'm Varun KV, an Algorithms enthusiast. I do competetive coding,
 ![Django](https://img.shields.io/badge/django%20-%23E34F26.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash%20-%23E34F26.svg?&style=for-the-badge&logo=latex&logoColor=white)
 ![ArangoDB](https://img.shields.io/badge/ArangoDB%20-%23E34F26.svg?&style=for-the-badge&logo=ArangoDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-eeeeee?style=for-the-badge&logo=mysql)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch%20-%23E34F26.svg?&style=for-the-badge&logo=ElasticSearch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23E34F26.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes%20-%23E34F26.svg?&style=for-the-badge&logoColor=whitehttps://img.shields.io/badge/Kubernetes%20-%23E34F26.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker%20-%23E34F26.svg?&style=for-the-badge&logo=Docker&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/ApacheHadoop%20-%23E34F26.svg?&style=for-the-badge&logo=ApacheHadoop&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/ApacheSpark%20-%23E34F26.svg?&style=for-the-badge&logo=ApacheSpark&logoColor=white)
 
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-ffb400?style=for-the-badge&logo=java&logoColor=ffff3f)
+![Scala](https://img.shields.io/badge/-scala-ffb400?style=for-the-badge&logo=scala&logoColor=ffff3f)
 ![Verilog](https://img.shields.io/badge/verilog%20-%23E34F26.svg?&style=for-the-badge&logo=verilog&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
